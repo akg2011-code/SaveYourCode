@@ -1,0 +1,20 @@
+c:\users\akg2017\documents\visual studio 2015\Projects\Save Your Code\Save Your Code\bin\Debug\Save Your Code.exe.config
+c:\users\akg2017\documents\visual studio 2015\Projects\Save Your Code\Save Your Code\bin\Debug\Save Your Code.exe
+c:\users\akg2017\documents\visual studio 2015\Projects\Save Your Code\Save Your Code\bin\Debug\Save Your Code.pdb
+c:\users\akg2017\documents\visual studio 2015\Projects\Save Your Code\Save Your Code\obj\Debug\Save Your Code.csprojResolveAssemblyReference.cache
+c:\users\akg2017\documents\visual studio 2015\Projects\Save Your Code\Save Your Code\obj\Debug\Save_Your_Code.frm_main.resources
+c:\users\akg2017\documents\visual studio 2015\Projects\Save Your Code\Save Your Code\obj\Debug\Save_Your_Code.Properties.Resources.resources
+c:\users\akg2017\documents\visual studio 2015\Projects\Save Your Code\Save Your Code\obj\Debug\Save Your Code.csproj.GenerateResource.Cache
+c:\users\akg2017\documents\visual studio 2015\Projects\Save Your Code\Save Your Code\obj\Debug\Save Your Code.exe
+c:\users\akg2017\documents\visual studio 2015\Projects\Save Your Code\Save Your Code\obj\Debug\Save Your Code.pdb
+C:\Users\akg2017\Documents\Visual Studio 2015\Projects\Save Your Code\Save Your Code\obj\Debug\Save_Your_Code.PL.frm_add.resources
+C:\Users\akg2017\Documents\Visual Studio 2015\Projects\Save Your Code\Save Your Code\obj\Debug\Save_Your_Code.PL.frm_view.resources
+C:\Users\akg2017\Documents\Visual Studio 2015\Projects\Save Your Code\Save Your Code\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\akg2017\Documents\Visual Studio 2015\Projects\Save Your Code\Save Your Code\obj\Debug\Save_Your_Code.PL.frm_about.resources
+C:\Users\akg2017\Documents\Visual Studio 2015\Projects\Save Your Code\Save Your Code\bin\Debug\Save Your Code.exe.manifest
+C:\Users\akg2017\Documents\Visual Studio 2015\Projects\Save Your Code\Save Your Code\bin\Debug\Save Your Code.application
+C:\Users\akg2017\Documents\Visual Studio 2015\Projects\Save Your Code\Save Your Code\obj\Debug\Save Your Code.exe.manifest
+C:\Users\akg2017\Documents\Visual Studio 2015\Projects\Save Your Code\Save Your Code\obj\Debug\Save Your Code.application
+E:\برامج\البرمجه\مشاريعي\Save Your Code\Save Your Code\bin\Debug\Save Your Code.exe.config
+E:\برامج\البرمجه\مشاريعي\Save Your Code\Save Your Code\obj\Debug\Save Your Code.exe
+E:\برامج\البرمجه\مشاريعي\Save Your Code\Save Your Code\obj\Debug\Save Your Code.pdb

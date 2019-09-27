@@ -1,0 +1,101 @@
+<?xml version="1.0" standalone="yes"?>
+<Codes>
+  <Code>
+    <ID_Code>لبافبيبيب</ID_Code>
+    <Des_code>ثقفثقفثقفثق</Des_code>
+    <Format_code>ثقفثقفسيبليببلييبلليبلليب</Format_code>
+    <Note_code>بليبليبليبل</Note_code>
+  </Code>
+  <Code>
+    <ID_Code>zzzzzz</ID_Code>
+    <Des_code>ggtgtrrhtr</Des_code>
+    <Format_code>htrhtrhtrhtrh</Format_code>
+    <Note_code>htrhtrhrht</Note_code>
+  </Code>
+  <Code>
+    <ID_Code>sssss</ID_Code>
+    <Des_code>aaaaaa</Des_code>
+    <Format_code>            
+            StreamWriter file = new StreamWriter(@"D:\MyCode.txt");
+            try
+            {
+                string sLine = "";
+
+			if (textBox1.Text != "")
+            {
+                for (int i = 0; i &lt; ds.Tables[0].Rows.Count - 1; i++)
+                {
+                    if (textBox1.Text == ds.Tables[0].Rows[i]["ID_Code"].ToString())
+                    {
+                        ds.Tables[0].Rows[i].Delete();
+                       
+                        MessageBox.Show("تم مسح الكود بنجاح", "مسح كود", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    }
+                }
+            }
+            else
+            {
+                MessageBox.Show("حدد الكود المراد مسحه", "مسح كود", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            }
+
+</Format_code>
+    <Note_code>sadfsdafsdaf</Note_code>
+  </Code>
+  <Code>
+    <ID_Code>uuuuuu</ID_Code>
+    <Des_code>ddddddd</Des_code>
+    <Format_code>sadfsdfsdf</Format_code>
+    <Note_code>sadfsdafsdaf</Note_code>
+  </Code>
+  <Code>
+    <ID_Code>lllll</ID_Code>
+    <Des_code>bbbb</Des_code>
+    <Format_code>sadfsdfsdf</Format_code>
+    <Note_code>sadfsdafsdaf</Note_code>
+  </Code>
+  <Code>
+    <ID_Code>yyyyy</ID_Code>
+    <Des_code>aaaaa</Des_code>
+    <Format_code>nmbnmj</Format_code>
+    <Note_code>sadfsdafsdaf</Note_code>
+  </Code>
+  <Code>
+    <ID_Code>mmmm</ID_Code>
+    <Des_code>ooooo</Des_code>
+    <Format_code>sadfsdfsdf</Format_code>
+    <Note_code>kjjkjk</Note_code>
+  </Code>
+  <Code>
+    <ID_Code>mmmm</ID_Code>
+    <Des_code>sdfsdfsd</Des_code>
+    <Format_code>sadfsdfsdf</Format_code>
+    <Note_code>kjjkjk</Note_code>
+  </Code>
+  <Code>
+    <ID_Code>vbc</ID_Code>
+    <Des_code>cdfgdfg</Des_code>
+    <Format_code>dfgfdgfd</Format_code>
+    <Note_code>dfgdfgdg</Note_code>
+  </Code>
+  <Code>
+    <ID_Code>Filter DataGridView With the Text Entered in TextBox in WinForms</ID_Code>
+    <Des_code>طريقة لللبحث في الداتا جريد فيو المرتبطه بملف xml 
+وذلك عن طرق تيكست بوكس</Des_code>
+    <Format_code>جميع التفاصيل في هذا الرابط
+http://www.c-sharpcorner.com/UploadFile/1a81c5/filter-datagridview-with-the-text-entered-in-textbox-in-winf/
+</Format_code>
+    <Note_code>هذا الكود قائم عليه هذا البرنامج</Note_code>
+  </Code>
+  <Code>
+    <ID_Code />
+    <Des_code />
+    <Format_code />
+    <Note_code />
+  </Code>
+  <Code>
+    <ID_Code />
+    <Des_code />
+    <Format_code />
+    <Note_code />
+  </Code>
+</Codes>
